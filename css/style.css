@@ -1,0 +1,29 @@
+header{
+    background-color:#2d3a46;
+    padding: 2px
+}   
+
+header img{
+    width: 80px;     
+}
+
+main{
+
+    background-color: #1d2d3b;
+}
+
+main img {padding: 7px;}
+
+/* CARDS */
+.card{
+  
+    background-color: #2E3A46;  
+  margin-right: 1px;
+  padding: 0;
+  margin-top: 15px;
+} 
+
+
+ main h5 {font-size: 12px;}
+
+ main p {font-size: 8px;}
